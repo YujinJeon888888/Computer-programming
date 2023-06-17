@@ -1,0 +1,6 @@
+﻿  w11.c
+C:\Users\전문경\source\repos\final_exam_practice\w11\w11.c(79): warning C4716: 'classifyGrade': 값을 반환해야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\w11\w11.c(40): warning C4716: 'getIncome': 값을 반환해야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\w11\w11.c(138): warning C4716: 'setTaxRate': 값을 반환해야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\w11\w11.c(152): warning C4716: 'calTax': 값을 반환해야 합니다.
+  w11.vcxproj -> C:\Users\전문경\source\repos\final_exam_practice\Debug\w11.exe

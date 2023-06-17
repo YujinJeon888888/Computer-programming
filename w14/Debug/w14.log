@@ -1,0 +1,3 @@
+﻿  w14.c
+C:\Users\전문경\source\repos\final_exam_practice\w14\w14.c(30): warning C4716: 'printDate': 값을 반환해야 합니다.
+  w14.vcxproj -> C:\Users\전문경\source\repos\final_exam_practice\Debug\w14.exe
