@@ -1,0 +1,3 @@
+﻿  5weeks.c
+C:\Users\전문경\source\repos\Practice\5weeks\5weeks.c(46,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'double'입니다.
+  5weeks.vcxproj -> C:\Users\전문경\source\repos\Practice\Debug\5weeks.exe
