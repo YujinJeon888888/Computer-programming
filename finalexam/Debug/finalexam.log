@@ -1,0 +1,39 @@
+﻿  finalexam.c
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(26,6): error C2086: 'int i': 재정의
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(14): message : 'i' 선언을 참조하십시오.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(26,9): error C2086: 'int j': 재정의
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(15): message : 'j' 선언을 참조하십시오.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(26,11): error C2086: 'int index': 재정의
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(16): message : 'index' 선언을 참조하십시오.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(26,17): error C2086: 'int temp': 재정의
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(17): message : 'temp' 선언을 참조하십시오.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(35,19): warning C4047: '=': 'int'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(36,28): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(37,23): warning C4047: '=': 'char [10]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(37,23): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(45,10): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(46,4): error C2143: 구문 오류: ';'이(가) 'if' 앞에 없습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(46,25): warning C4047: '함수': 'int'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(46,22): warning C4024: 'isupper': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(48,34): warning C4047: '함수': 'int'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(48,31): warning C4024: 'toupper': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(48,35): warning C4047: '=': 'char [10]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(48,35): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(50,30): warning C4047: '함수': 'int'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(50,27): warning C4024: 'isupper': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(52,8): error C2065: 'str': 선언되지 않은 식별자입니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(52,10): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(52,25): error C2065: 'str': 선언되지 않은 식별자입니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(52,27): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(52,21): error C2198: 'toupper': 호출에 인수가 너무 적습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(68,20): warning C4133: '함수': 'int [10]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(69,17): warning C4133: '함수': 'int [10]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(73,5): warning C4013: 'For'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(73,20): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(73,24): warning C4552: '<=': 식의 결과가 사용되지 않습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(73,33): error C2059: 구문 오류: ')'
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(74,3): error C2146: 구문 오류: ';'이(가) 'Sum' 식별자 앞에 없습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(74,7): error C2065: 'Sum': 선언되지 않은 식별자입니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(74,19): error C2297: '+=': 오른쪽 피연산자 형식으로 'int [10]'을(를) 사용할 수 없습니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(74,19): warning C4047: '+=': 'int'의 간접 참조 수준이 'int [10]'과(와) 다릅니다.
+C:\Users\전문경\source\repos\final_exam_practice\finalexam\finalexam.c(68,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
